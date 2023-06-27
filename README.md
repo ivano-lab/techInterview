@@ -34,5 +34,5 @@ Este repositório é apenas uma simulação e não aceita contribuições. No en
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Este projeto está licenciado sob a [MIT License](https://choosealicense.com/licenses/mit/).
 
